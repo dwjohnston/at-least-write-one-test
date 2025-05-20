@@ -1,4 +1,3 @@
-# Node + Jest + TypeScript + tsx boilerplate
+Example code for this repo 
 
-Boilerplate for running simple TypeScript + Node + Jest tests in 2024. 
-
+https://blacksheepcode.com/posts/at_least_write_one_test
